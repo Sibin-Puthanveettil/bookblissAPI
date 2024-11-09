@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FullStack\\SKbooks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA99EA82-11CF-4DAC-B898-DCF0C70EE1F2}|SKbooks\\SKbooksAPI.csproj|d:\\fullstack\\skbooks\\skbooks\\models\\response\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA99EA82-11CF-4DAC-B898-DCF0C70EE1F2}|SKbooks\\SKbooksAPI.csproj|solutionrelative:skbooks\\models\\response\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA99EA82-11CF-4DAC-B898-DCF0C70EE1F2}|SKbooks\\SKbooksAPI.csproj|d:\\fullstack\\skbooks\\skbooks\\sanath\\bll\\customerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA99EA82-11CF-4DAC-B898-DCF0C70EE1F2}|SKbooks\\SKbooksAPI.csproj|solutionrelative:skbooks\\sanath\\bll\\customerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA99EA82-11CF-4DAC-B898-DCF0C70EE1F2}|SKbooks\\SKbooksAPI.csproj|d:\\fullstack\\skbooks\\skbooks\\models\\mainproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA99EA82-11CF-4DAC-B898-DCF0C70EE1F2}|SKbooks\\SKbooksAPI.csproj|solutionrelative:skbooks\\models\\mainproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA99EA82-11CF-4DAC-B898-DCF0C70EE1F2}|SKbooks\\SKbooksAPI.csproj|d:\\fullstack\\skbooks\\skbooks\\models\\siteproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA99EA82-11CF-4DAC-B898-DCF0C70EE1F2}|SKbooks\\SKbooksAPI.csproj|solutionrelative:skbooks\\models\\siteproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA99EA82-11CF-4DAC-B898-DCF0C70EE1F2}|SKbooks\\SKbooksAPI.csproj|d:\\fullstack\\skbooks\\skbooks\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA99EA82-11CF-4DAC-B898-DCF0C70EE1F2}|SKbooks\\SKbooksAPI.csproj|solutionrelative:skbooks\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullStack\\SKbooks\\SKbooks\\Migrations\\20241022112525_MigrationFirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SKbooks\\Migrations\\20241022112525_MigrationFirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\373704\\AppData\\Local\\Temp\\aafqzmsm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FullStack\\SKbooks\\SKbooks\\Migrations\\20241022111647_MigrationName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SKbooks\\Migrations\\20241022111647_MigrationName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA99EA82-11CF-4DAC-B898-DCF0C70EE1F2}|SKbooks\\SKbooksAPI.csproj|d:\\fullstack\\skbooks\\skbooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA99EA82-11CF-4DAC-B898-DCF0C70EE1F2}|SKbooks\\SKbooksAPI.csproj|solutionrelative:skbooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA99EA82-11CF-4DAC-B898-DCF0C70EE1F2}|SKbooks\\SKbooksAPI.csproj|d:\\fullstack\\skbooks\\skbooks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA99EA82-11CF-4DAC-B898-DCF0C70EE1F2}|SKbooks\\SKbooksAPI.csproj|solutionrelative:skbooks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA99EA82-11CF-4DAC-B898-DCF0C70EE1F2}|SKbooks\\SKbooksAPI.csproj|d:\\fullstack\\skbooks\\skbooks\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA99EA82-11CF-4DAC-B898-DCF0C70EE1F2}|SKbooks\\SKbooksAPI.csproj|solutionrelative:skbooks\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA99EA82-11CF-4DAC-B898-DCF0C70EE1F2}|SKbooks\\SKbooksAPI.csproj|d:\\fullstack\\skbooks\\skbooks\\sanath\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA99EA82-11CF-4DAC-B898-DCF0C70EE1F2}|SKbooks\\SKbooksAPI.csproj|solutionrelative:skbooks\\sanath\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA99EA82-11CF-4DAC-B898-DCF0C70EE1F2}|SKbooks\\SKbooksAPI.csproj|d:\\fullstack\\skbooks\\skbooks\\models\\response\\globalvars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA99EA82-11CF-4DAC-B898-DCF0C70EE1F2}|SKbooks\\SKbooksAPI.csproj|solutionrelative:skbooks\\models\\response\\globalvars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA99EA82-11CF-4DAC-B898-DCF0C70EE1F2}|SKbooks\\SKbooksAPI.csproj|d:\\fullstack\\skbooks\\skbooks\\data\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA99EA82-11CF-4DAC-B898-DCF0C70EE1F2}|SKbooks\\SKbooksAPI.csproj|solutionrelative:skbooks\\data\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainProducts.cs",
+              "DocumentMoniker": "D:\\FullStack\\SKbooks\\SKbooks\\Models\\MainProducts.cs",
+              "RelativeDocumentMoniker": "SKbooks\\Models\\MainProducts.cs",
+              "ToolTip": "D:\\FullStack\\SKbooks\\SKbooks\\Models\\MainProducts.cs",
+              "RelativeToolTip": "SKbooks\\Models\\MainProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:13:25.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SiteProduct.cs",
+              "DocumentMoniker": "D:\\FullStack\\SKbooks\\SKbooks\\Models\\SiteProduct.cs",
+              "RelativeDocumentMoniker": "SKbooks\\Models\\SiteProduct.cs",
+              "ToolTip": "D:\\FullStack\\SKbooks\\SKbooks\\Models\\SiteProduct.cs",
+              "RelativeToolTip": "SKbooks\\Models\\SiteProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:14:45.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\FullStack\\SKbooks\\SKbooks\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "SKbooks\\Models\\Customer.cs",
+              "ToolTip": "D:\\FullStack\\SKbooks\\SKbooks\\Models\\Customer.cs",
+              "RelativeToolTip": "SKbooks\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:23:47.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductResponse.cs",
+              "DocumentMoniker": "D:\\FullStack\\SKbooks\\SKbooks\\Models\\Response\\ProductResponse.cs",
+              "RelativeDocumentMoniker": "SKbooks\\Models\\Response\\ProductResponse.cs",
+              "ToolTip": "D:\\FullStack\\SKbooks\\SKbooks\\Models\\Response\\ProductResponse.cs",
+              "RelativeToolTip": "SKbooks\\Models\\Response\\ProductResponse.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:32:46.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customerbll.cs",
+              "DocumentMoniker": "D:\\FullStack\\SKbooks\\SKbooks\\Sanath\\BLL\\Customerbll.cs",
+              "RelativeDocumentMoniker": "SKbooks\\Sanath\\BLL\\Customerbll.cs",
+              "ToolTip": "D:\\FullStack\\SKbooks\\SKbooks\\Sanath\\BLL\\Customerbll.cs",
+              "RelativeToolTip": "SKbooks\\Sanath\\BLL\\Customerbll.cs",
+              "ViewState": "AgIAADEBAAAAAAAAAAAqwD4BAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:32:57.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241022112525_MigrationFirst.cs",
+              "DocumentMoniker": "D:\\FullStack\\SKbooks\\SKbooks\\Migrations\\20241022112525_MigrationFirst.cs",
+              "RelativeDocumentMoniker": "SKbooks\\Migrations\\20241022112525_MigrationFirst.cs",
+              "ToolTip": "D:\\FullStack\\SKbooks\\SKbooks\\Migrations\\20241022112525_MigrationFirst.cs",
+              "RelativeToolTip": "SKbooks\\Migrations\\20241022112525_MigrationFirst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:25:25.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241022111647_MigrationName.cs",
+              "DocumentMoniker": "D:\\FullStack\\SKbooks\\SKbooks\\Migrations\\20241022111647_MigrationName.cs",
+              "RelativeDocumentMoniker": "SKbooks\\Migrations\\20241022111647_MigrationName.cs",
+              "ToolTip": "D:\\FullStack\\SKbooks\\SKbooks\\Migrations\\20241022111647_MigrationName.cs",
+              "RelativeToolTip": "SKbooks\\Migrations\\20241022111647_MigrationName.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:16:47.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "aafqzmsm..sql",
+              "DocumentMoniker": "C:\\Users\\373704\\AppData\\Local\\Temp\\aafqzmsm..sql",
+              "ToolTip": "C:\\Users\\373704\\AppData\\Local\\Temp\\aafqzmsm..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-22T11:18:30.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FullStack\\SKbooks\\SKbooks\\Program.cs",
+              "RelativeDocumentMoniker": "SKbooks\\Program.cs",
+              "ToolTip": "D:\\FullStack\\SKbooks\\SKbooks\\Program.cs",
+              "RelativeToolTip": "SKbooks\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:14:14.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FullStack\\SKbooks\\SKbooks\\appsettings.json",
+              "RelativeDocumentMoniker": "SKbooks\\appsettings.json",
+              "ToolTip": "D:\\FullStack\\SKbooks\\SKbooks\\appsettings.json",
+              "RelativeToolTip": "SKbooks\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T11:14:06.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDBcontext.cs",
+              "DocumentMoniker": "D:\\FullStack\\SKbooks\\SKbooks\\Data\\ApplicationDBcontext.cs",
+              "RelativeDocumentMoniker": "SKbooks\\Data\\ApplicationDBcontext.cs",
+              "ToolTip": "D:\\FullStack\\SKbooks\\SKbooks\\Data\\ApplicationDBcontext.cs",
+              "RelativeToolTip": "SKbooks\\Data\\ApplicationDBcontext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:57:23.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customercontroller.cs",
+              "DocumentMoniker": "D:\\FullStack\\SKbooks\\SKbooks\\Sanath\\Controllers\\Customercontroller.cs",
+              "RelativeDocumentMoniker": "SKbooks\\Sanath\\Controllers\\Customercontroller.cs",
+              "ToolTip": "D:\\FullStack\\SKbooks\\SKbooks\\Sanath\\Controllers\\Customercontroller.cs",
+              "RelativeToolTip": "SKbooks\\Sanath\\Controllers\\Customercontroller.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAASwKkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:32:57.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GlobalVars.cs",
+              "DocumentMoniker": "D:\\FullStack\\SKbooks\\SKbooks\\Models\\Response\\GlobalVars.cs",
+              "RelativeDocumentMoniker": "SKbooks\\Models\\Response\\GlobalVars.cs",
+              "ToolTip": "D:\\FullStack\\SKbooks\\SKbooks\\Models\\Response\\GlobalVars.cs",
+              "RelativeToolTip": "SKbooks\\Models\\Response\\GlobalVars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:32:56.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DBhelper.cs",
+              "DocumentMoniker": "D:\\FullStack\\SKbooks\\SKbooks\\Data\\DBhelper.cs",
+              "RelativeDocumentMoniker": "SKbooks\\Data\\DBhelper.cs",
+              "ToolTip": "D:\\FullStack\\SKbooks\\SKbooks\\Data\\DBhelper.cs",
+              "RelativeToolTip": "SKbooks\\Data\\DBhelper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:54:44.565Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

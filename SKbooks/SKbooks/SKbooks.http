@@ -1,0 +1,6 @@
+@SKbooks_HostAddress = http://localhost:5003
+
+GET {{SKbooks_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
